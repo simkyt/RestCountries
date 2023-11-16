@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  RestCountries
 //
-//  Created by Simonas Kytra on 16/11/2023.
+//  Created by arturs.olekss on 15/11/2023.
 //
 
 import UIKit
